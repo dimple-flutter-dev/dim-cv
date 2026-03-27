@@ -2,7 +2,7 @@
 
 Lead Flutter Engineer | Mobile Architect | Fintech Systems
 
-Senior mobile engineer with 7+ years of experience building scalable, high-performance applications. Specialized in real-time systems, mobile architecture, and production-grade fintech platforms.
+Senior mobile engineer with 7+ years of experience designing and delivering scalable, high-performance applications. Strong focus on real-time systems, mobile architecture, and production-grade fintech platforms.
 
 ---
 
@@ -14,10 +14,10 @@ View Resume: https://your-domain.dev
 
 ## Professional Summary
 
-* Designed and built large-scale mobile applications with a focus on performance and scalability
-* Experience in real-time data systems, trading workflows, and low-latency applications
-* Strong expertise in Flutter architecture, state management, and system design
-* Proven ability to lead teams, mentor developers, and drive engineering standards
+* Designed and delivered large-scale mobile applications with a focus on performance, scalability, and reliability
+* Owned end-to-end architecture for real-time systems handling high-frequency data and critical user workflows
+* Improved system efficiency, reduced latency, and enhanced user experience through deep performance optimization
+* Led engineering initiatives, mentored developers, and established coding standards and best practices
 
 ---
 
@@ -54,16 +54,21 @@ Tools
 HDFC Securities
 Senior Software Engineer (Flutter) – Manager Grade
 
-* Working on HDFC Sky, a large-scale fintech trading platform
-* Building scalable mobile systems for real-time market data and trading workflows
-* Ensuring low-latency performance for live trading scenarios
-* Collaborating across engineering and product teams to deliver secure financial systems
+* Contributing to HDFC Sky, a large-scale fintech platform supporting trading across multiple financial instruments
+* Designing scalable mobile systems for real-time market data and transaction workflows
+* Optimizing performance to ensure low-latency interactions in high-frequency trading scenarios
+* Collaborating across engineering, product, and compliance teams to deliver secure and reliable systems
 
 Yes Securities
 
-* Delivered real-time trading application with high availability
-* Reduced latency by 25% through optimized data handling
-* Implemented scalable architecture for live trading environments
+* Architected and delivered a real-time trading application with high availability and production stability
+* Reduced system latency by 25% through optimized data handling and efficient communication layers
+* Built scalable and maintainable systems for live trading environments
+
+Marmon Holdings
+
+* Improved application efficiency by 40% and reduced crash rates by 20% across enterprise applications
+* Led engineering standards, code quality initiatives, and CI/CD automation to accelerate delivery
 
 ---
 
@@ -80,4 +85,4 @@ Email: [dmpleshukl@gmail.com](mailto:dmpleshukl@gmail.com)
 
 ---
 
-Open to roles involving large-scale mobile systems, architecture, and high-performance applications.
+Open to opportunities involving large-scale mobile systems, architecture, and high-performance engineering challenges.
