@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Dimple Shukla",
+    "label": "Lead Flutter Engineer",
+    "summary": "I engineer mobile apps where performance is a feature, scale is built in, and quality = f(detail). Lead Flutter Engineer with 7+ years of experience designing and delivering high-performance, scalable mobile systems, including real-time and data-intensive applications in fintech domains. Proven track record of improving application performance, reducing latency, and owning end-to-end delivery of production-grade systems.",
+    "location": {
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/dmple/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HDFC Securities",
+      "position": "Senior Software Engineer (Flutter) – Manager Grade",
+      "startDate": "2026-04",
+      "summary": "Working on HDFC Sky mobile application",
+      "highlights": [
+        "Owned end-to-end development of Mutual Funds module (BSE 2.0) including SIP and lumpsum flows with UPI and NetBanking integrations",
+        "Designed and delivered high-performance fintech features handling real-time data and transaction workflows",
+        "Built and enhanced investment and trading modules improving user engagement and adoption",
+        "Migrated 100+ deeplinks to Appsflyer OneLink ensuring zero downtime",
+        "Improved app stability by resolving dependency conflicts and reducing crashes",
+        "Elevated engineering documentation practices by creating 25+ technical artifacts including PRDs, solution designs, and workflows"
+      ]
+    },
+    {
+      "name": "Marmon Holdings",
+      "position": "Senior Mobile Application Developer / Tech Lead",
+      "startDate": "2024-08",
+      "endDate": "2026-03",
+      "highlights": [
+        "Led development of enterprise applications including RailSource and RepairCentral",
+        "Boosted application efficiency by 40% and reduced crash rates by 20% through architectural refactoring",
+        "Increased delivery speed by 50% by mentoring developers and improving workflows",
+        "Owned architecture decisions while contributing as an individual contributor",
+        "Established clean architecture and scalable development practices"
+      ]
+    },
+    {
+      "name": "Yes Securities",
+      "position": "Senior Software Engineer (Flutter)",
+      "highlights": [
+        "Developed Omni VSL 2.0 trading application with real-time market data integration",
+        "Achieved 99.9% uptime and high reliability",
+        "Reduced latency by 25% through middleware and data flow optimization",
+        "Built trading modules including order placement, portfolio tracking, and live market feeds",
+        "Designed real-time data systems ensuring low-latency user experience"
+      ]
+    },
+    {
+      "name": "AimInfologics",
+      "position": "Team Lead – Flutter Development",
+      "startDate": "2018-04",
+      "endDate": "2023-04",
+      "highlights": [
+        "Delivered multiple mobile applications across industries",
+        "Led a team of developers handling full SDLC",
+        "Built scalable and maintainable applications",
+        "Collaborated across product, design, and backend teams"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Mobile Development",
+      "keywords": ["Flutter", "Dart", "BLoC", "Performance Optimization"]
+    },
+    {
+      "name": "Architecture",
+      "keywords": ["Clean Architecture", "Scalable Systems", "Real-Time Systems"]
+    },
+    {
+      "name": "Backend & Integration",
+      "keywords": ["REST APIs", "WebSockets", "API Design"]
+    },
+    {
+      "name": "AI-Assisted Development",
+      "keywords": ["Prompt Engineering", "LLM Code Generation"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gujarat Technological University",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Engineering",
+      "score": "8.97",
+      "startDate": "2018-08",
+      "endDate": "2021-04"
+    },
+    {
+      "institution": "Gujarat Technological University",
+      "area": "Information Technology",
+      "studyType": "Diploma",
+      "score": "9.65",
+      "startDate": "2015-08",
+      "endDate": "2018-04"
+    }
+  ]
+}
